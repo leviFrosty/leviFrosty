@@ -7,7 +7,7 @@
 ## Projects:
 
 ### 1. [Chatterup!](https://chatterup.netlify.app/)
-[Source](https://github.com/leviFrosty/chatterup)
+[README](https://github.com/leviFrosty/chatterup)
 
 ### 2. [Beautiful Website](https://leviwilkerson1.netlify.app/)
 [Source](https://github.com/leviFrosty/moshifyhosting)
