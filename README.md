@@ -6,6 +6,10 @@
 
 ## Projects:
 
-[Beautiful Website](https://leviwilkerson1.netlify.app/)
+### [Chatterup!](https://chatterup.netlify.app/)
+[Source](https://github.com/leviFrosty/chatterup)
 
-[React Movie Service Application - Not deployed](https://github.com/leviFrosty/vidlyReactProject)
+### [Beautiful Website](https://leviwilkerson1.netlify.app/)
+[Source](https://github.com/leviFrosty/moshifyhosting)
+
+### [React Movie Service Application - Not deployed](https://github.com/leviFrosty/vidlyReactProject)
