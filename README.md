@@ -6,10 +6,13 @@
 
 ## Projects:
 
-### 1. [Chatterup!](https://chatterup.netlify.app/)
+### 1. [JovialByJulia (E-commerce)](https://github.com/leviFrosty/jovialbyjuliacommerce/projects/1)
+In progress
+
+### 2. [Chatterup!](https://chatterup.netlify.app/)
 [README](https://github.com/leviFrosty/chatterup)
 
-### 2. [Beautiful Website](https://leviwilkerson1.netlify.app/)
+### 3. [Beautiful Website](https://leviwilkerson1.netlify.app/)
 [Source](https://github.com/leviFrosty/moshifyhosting)
 
-### 3. [React Movie Service Application - Not deployed](https://github.com/leviFrosty/vidlyReactProject)
+### 4. [React Movie Service Application - Not deployed](https://github.com/leviFrosty/vidlyReactProject)
