@@ -12,7 +12,7 @@
 ### 2. [Beautiful Website](https://leviwilkerson1.netlify.app/)
 [Source](https://github.com/leviFrosty/moshifyhosting)
 
-### 3. [JovialByJulia (E-commerce)](https://github.com/leviFrosty/jovialbyjuliacommerce/projects/1)
+### 3. [JovialByJulia (E-commerce)](https://github.com/leviFrosty/jovialbyjuliacommerce)
 In progress
 
 ### 4. [React Movie Service Application - Not deployed](https://github.com/leviFrosty/vidlyReactProject)
