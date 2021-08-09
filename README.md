@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Levi Wilkerson
-- 📚 I’m interested and excited to learn about all things code!
-- 🔎 I focus on front-end technologies and ReactJS
+- 📚 I do all things code! Well, I try.
+- 🔎 I focus on PowerShell and front-end web development!
 ### 📫 How to reach me:
 <chelleas123@gmail.com>
 
