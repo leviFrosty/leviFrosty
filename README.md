@@ -15,4 +15,5 @@
 ### 3. [Calorie Counter App](https://inspiring-volhard-13c156.netlify.app/)
 [Source](https://github.com/leviFrosty/calorieCounter)
 
-### 4. [React Movie Service Application - Not deployed](https://github.com/leviFrosty/vidlyReactProject)
+### 4. [React Movie Service Application](https://github.com/leviFrosty/vidlyReactProject)
+[Not deployed]()
