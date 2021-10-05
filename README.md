@@ -12,7 +12,7 @@
 ### 2. [Beautiful Website](https://leviwilkerson1.netlify.app/)
 [Source](https://github.com/leviFrosty/moshifyhosting)
 
-### 3. [Calorie Counter App](https://github.com/leviFrosty/calorieCounter)
+### 3. [Calorie Counter App](https://inspiring-volhard-13c156.netlify.app/)
 [Source](https://github.com/leviFrosty/calorieCounter)
 
 ### 4. [React Movie Service Application - Not deployed](https://github.com/leviFrosty/vidlyReactProject)
