@@ -16,4 +16,4 @@
 [Source](https://github.com/leviFrosty/calorieCounter)
 
 ### 4. [React Movie Service Application](https://github.com/leviFrosty/vidlyReactProject)
-[Not deployed]()
+[Not deployed](https://github.com/leviFrosty/)
