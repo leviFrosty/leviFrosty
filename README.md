@@ -15,4 +15,4 @@
 ### 3. [Calorie Counter App](https://github.com/leviFrosty/calorieCounter)
 [Source](https://github.com/leviFrosty/calorieCounter)
 
-### 5. [React Movie Service Application - Not deployed](https://github.com/leviFrosty/vidlyReactProject)
+### 4. [React Movie Service Application - Not deployed](https://github.com/leviFrosty/vidlyReactProject)
