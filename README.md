@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Levi Wilkerson
 - 📚 I do all things code! Well, I try.
-- 🔎 I focus on PowerShell and front-end web development!
+- 🔎 I focus on PowerShell and Web Development!
 ### 📫 How to reach me:
 <chelleas123@gmail.com>
 
