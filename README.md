@@ -6,10 +6,10 @@
 
 ## Projects:
 
-### 1. [Chatterup!](https://chatterup.netlify.app/)
+### 1. [Chat App](https://chatterup.netlify.app/)
 [README](https://github.com/leviFrosty/chatterup)
 
-### 2. [Beautiful Website](https://leviwilkerson1.netlify.app/)
+### 2. [Static Website](https://leviwilkerson1.netlify.app/)
 [Source](https://github.com/leviFrosty/moshifyhosting)
 
 ### 3. [Calorie Counter App](https://inspiring-volhard-13c156.netlify.app/)
