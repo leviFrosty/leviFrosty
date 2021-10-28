@@ -1,13 +1,20 @@
 # 👋 Hi, I’m Levi Wilkerson!
 📚 I come from a Network Engineer and Systems Administrator background. I'm here to make cool things!
-### 📫 How to reach me:
-<chelleas123@gmail.com>
-## Projects:
-### 1. [Chat App](https://chatterup.netlify.app/)
-[README](https://github.com/leviFrosty/chatterup)
-### 2. [Static Website](https://leviwilkerson1.netlify.app/)
-[Source](https://github.com/leviFrosty/moshifyhosting)
-### 3. [Calorie Counter App](https://inspiring-volhard-13c156.netlify.app/)
-[Source](https://github.com/leviFrosty/calorieCounter)
-### 4. [React Movie Service Application](https://github.com/leviFrosty/vidlyReactProject)
-[Not deployed](https://github.com/leviFrosty/)
+## How to reach me:
+📫 <chelleas123@gmail.com>
+## Projects / Experience:
+- [Bleeper!](https://github.com/leviFrosty/twitClone) 
+  - React, Firebase, SaSS, HTML, JavaScript<br>
+  - *[Readme / Source](https://github.com/leviFrosty/twitClone#how-to-view)*
+- [Chatterup](https://chatterup.netlify.app/)
+  - React, JavaScript, CSS, HTML<br>
+  - *[Readme / Source](https://github.com/leviFrosty/chatterup#sample-users)*
+- [Moshify](https://leviwilkerson1.netlify.app/)
+  - HTML, CSS<br>
+  - *[Source](https://github.com/leviFrosty/moshifyhosting)*
+- [DHCP Reservation Validator](https://github.com/leviFrosty/getWindowsDhcpServersLeases)
+  - PowerShell, DOS
+  - *[Readme / Source](https://github.com/leviFrosty/getWindowsDhcpServersLeases#dhcp-reservation-validator)*
+- [Calories! Count em.](https://inspiring-volhard-13c156.netlify.app/)
+  - JavaScript, CSS, HTML<br>
+  - *[Source](https://github.com/leviFrosty/calorieCounter)*
