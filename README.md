@@ -4,7 +4,7 @@
 📫 <chelleas123@gmail.com>
 ## Projects / Experience:
 - [Bleeper!](https://github.com/leviFrosty/twitClone) 
-  - React, Firebase, SaSS, HTML, JavaScript<br>
+  - React, Firebase, JavaScript, SaSS, HTML<br>
   - *[Readme / Source](https://github.com/leviFrosty/twitClone#how-to-view)*
 - [Chatterup](https://chatterup.netlify.app/)
   - React, JavaScript, CSS, HTML<br>
