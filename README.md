@@ -1,5 +1,5 @@
-# 👋 Hi, I’m Levi Wilkerson
-- 📚 I do all things code! Well, I try.
+# 👋 Hi, I’m Levi Wilkerson!
+📚 I come from a Network Engineer and Systems Administrator background. I'm here to make cool things!
 ### 📫 How to reach me:
 <chelleas123@gmail.com>
 ## Projects:
