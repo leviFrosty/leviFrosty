@@ -4,4 +4,4 @@
 
 👨‍💻 For fun, I am working on [JW Time](https://github.com/leviFrosty/JW-Time), an iOS and Android app.
 
-🚴‍♂️ For more, I enjoy getting in my cardio with ZE BIKE!
+🚴‍♂️ For more, I enjoy getting in my cardio with ZE BIKE and hitting tennis! 🎾
