@@ -6,4 +6,4 @@
 
 🚴‍♂️ For more, I enjoy getting in my cardio with my bike and tennis! 🎾
 
-❤️ If you find value in my work and want to support, consider [buying me a coffee](https://www.buymeacoffee.com/leviwilkerson)
+❤️ If you find value in my work and want to support, consider [buying me a coffee](https://ko-fi.com/leviwilkerson)
