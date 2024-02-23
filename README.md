@@ -2,7 +2,7 @@
 
 🧑‍💼 For work, I am a full-stack developer at [Paula's Choice](https://www.paulaschoice.com/).
 
-👨‍💻 For fun, I am working on [JW Time](https://github.com/leviFrosty/JW-Time), a field service productivity app enjoyed by over 450+ weekly active users.
+👨‍💻 For fun, I am working on [JW Time](https://github.com/leviFrosty/JW-Time), a field service productivity app enjoyed by over 700+ weekly active users.
 
 📚 For the brain, I am learning [Rust](https://www.rust-lang.org/).
 
