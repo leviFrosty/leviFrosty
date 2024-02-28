@@ -4,7 +4,7 @@
 
 👨‍💻 For fun, I am working on [JW Time](https://github.com/leviFrosty/JW-Time), a field service productivity app enjoyed by over 700+ weekly active users.
 
-📚 For the brain, I am learning [Rust](https://www.rust-lang.org/).
+📚 For the brain, I am learning [Rust](https://www.rust-lang.org/) and algorithms.
 
 🚴‍♂️ For more, I enjoy working out, hanging with my lovely wife and friends, and swinging the tennis racket! 🎾
 
