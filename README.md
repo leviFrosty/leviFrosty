@@ -2,7 +2,7 @@
 
 🧑‍💼 For work, I am a full-stack developer at [Paula's Choice](https://www.paulaschoice.com/).
 
-👨‍💻 For fun, I am working on [WitnessWork](https://github.com/leviFrosty/witness-work), a field service productivity app enjoyed by over 2,300+ monthly active users.
+👨‍💻 For fun, I am working on [WitnessWork](https://github.com/leviFrosty/witness-work), a field service productivity app enjoyed by over 3,000+ monthly active users.
 
 🚴‍♂️ For more, I enjoy working out, hanging with my lovely wife and friends, and swinging the tennis racket! 🎾
 
