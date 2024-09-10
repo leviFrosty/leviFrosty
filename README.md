@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Levi Wilkerson!
 
-🧑‍💼 For work, I am a full-stack developer at [Paula's Choice](https://www.paulaschoice.com/).
+🧑‍💼 For work, I am a full-stack engineer at [Paula's Choice](https://www.paulaschoice.com/).
 
 👨‍💻 For fun, I am working on [WitnessWork](https://github.com/leviFrosty/witness-work), a field service productivity app enjoyed by over 3,000+ monthly active users.
 
