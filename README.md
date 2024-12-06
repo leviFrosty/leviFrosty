@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Levi Wilkerson!
+# 👋 Hi, I’m Levi Wilkerson
 
 I'm a System Admin & Network Engineer turned Software Engineer. 
 
-In 2019, while working as a Sys admin, I realized how fun and addicting scripting was. I started my journey with Powershell applications & AutoIT scripts. I was hooked.
+In 2019, while working as a Sys Admin, I realized how fun and addicting scripting was. I started my journey with Powershell applications & AutoIT scripts. I was hooked.
 
 Some time passed, I got my [CCNA](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html), then later I began working as a full-stack engineer at [Paula's Choice](https://www.paulaschoice.com/). 3+ years at Paula's Choice and many large projects later, I still am hooked.
 
