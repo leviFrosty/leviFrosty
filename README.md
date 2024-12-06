@@ -1,9 +1,15 @@
 # 👋 Hi, I’m Levi Wilkerson!
 
-🧑‍💼 For work, I am a full-stack engineer at [Paula's Choice](https://www.paulaschoice.com/).
+I'm a System Admin & Network Engineer turned Software Engineer. 
 
-👨‍💻 For fun, I am working on [WitnessWork](https://github.com/leviFrosty/witness-work), a field service productivity app enjoyed by over 3,000+ monthly active users.
+In 2019, while working as a Sys admin, I realized how fun and addicting scripting was. I started my journey with Powershell applications & AutoIT scripts. I was hooked.
 
-🚴‍♂️ For more, I enjoy working out, hanging with my lovely wife and friends, and swinging the tennis racket! 🎾
+Some time passed, I got my [CCNA](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html), then later I began working as a full-stack engineer at [Paula's Choice](https://www.paulaschoice.com/). 3+ years at Paula's Choice and many large projects later, I still am hooked.
 
-❤️ If you find value in my work and want to support, consider [buying me a coffee](https://ko-fi.com/leviwilkerson)
+**I love software.**
+
+Levi
+
+---
+
+👨‍💻 Occassionally I am working on [WitnessWork](https://github.com/leviFrosty/witness-work), a field service productivity app enjoyed by over 3,000+ monthly active users.
