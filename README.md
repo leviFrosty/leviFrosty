@@ -16,4 +16,4 @@ Levi
 
 ---
 
-👨‍💻 Occassionally I work on [WitnessWork](https://github.com/leviFrosty/witness-work), a field service productivity app enjoyed by over 3,000+ monthly active users.
+👨‍💻 Occassionally I work on [WitnessWork](https://github.com/leviFrosty/witness-work), a field service productivity app enjoyed by over 4,000+ monthly active users.
